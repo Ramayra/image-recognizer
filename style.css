@@ -1,0 +1,16 @@
+body{
+    color: blueviolet;
+    background-color: rgb(233, 131, 182);
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_objects{
+    color: blueviolet;
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 350px;
+}
